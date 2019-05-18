@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="build/classes/sqlite-jdbc-3.27.2.1.jar"/>
+	<classpathentry kind="lib" path="build/classes/rs2xml.jar"/>
+	<classpathentry kind="lib" path="build/classes/org-jdesktop-swingx.jar"/>
+	<classpathentry kind="lib" path="jars/swingx-autocomplete-1.6.4.jar"/>
+	<classpathentry kind="lib" path="jars/joda-time-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
